@@ -9,7 +9,7 @@
 *  **If you are familiar with the current version of Security Onion and are confident you've discovered a bug**, first ensure there is not already an issue present by searching the open [issues](https://github.com/Security-Onion-Solutions/securityonion/issues). If there is, a thumbs up :+1: is a great way to show this bug is affecting you too.
 
 * If an issue doesn't exist, [open a new one](https://github.com/Security-Onion-Solutions/securityonion/issues/new), following the directions in the issue template. This means including:
-  * **System information** and how Security Onion was installed
+  * **System informatasfdasdfaion** and how Security Onion was installed
   * **Log files** relevant to the bug report
   * **Reproduction steps** 
 
